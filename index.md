@@ -9,7 +9,7 @@
 
 ---
 [Project 2 - Mother's Day Poster ](/pdf/sample_presentation.pdf)
-<img src="images/MOTHER'S DAY.jpg?raw=true"/>
+<img src="images/ecard.jpg?raw=true"/>
 
 ---
 [Project 3 - Surrealism Project](http://example.com/)
