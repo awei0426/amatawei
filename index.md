@@ -1,18 +1,18 @@
-## Portfolio
+## Mrs. Wei's Portfolio
 
 ---
 
-### Category Name 1 
+### My Creative Works 
 
 [Project 1 - Galaxy Cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 - Mother's Day Poster ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MOTHER'S DAY.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 - Surrealism Project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
