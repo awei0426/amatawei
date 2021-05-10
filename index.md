@@ -17,6 +17,10 @@
 
 ---
 
+[Project 4 - Surrealism Project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
