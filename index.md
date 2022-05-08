@@ -1,4 +1,4 @@
-<link rel="icon" href="images/favicon_portfolio.ico" type="image/x-icon" />
+site_favicon: images/favicon.ico
 
 ## Mrs. Wei's Portfolio
 
