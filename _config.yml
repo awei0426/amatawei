@@ -1,6 +1,7 @@
 title: Audrey Wei # your name (or website title) here
 logo: "/images/me.png?raw=true" # your photo (or logo) here
 site_favicon: "/images/favicon.ico"
+favicon: images/favicon_portfolio.ico
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About this site
