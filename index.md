@@ -1,3 +1,5 @@
+<link rel="icon" href="images/favicon_portfolio.ico" type="image/x-icon" />
+
 ## Mrs. Wei's Portfolio
 
 ---
