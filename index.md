@@ -7,7 +7,7 @@ site_favicon: images/favicon.ico
 ### My Creative Works 
 
 [Project 1 - Galaxy Cat](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ripped_text_graphic.jpg?raw=true"/>
 
 ---
 [Project 2 - Mother's Day Poster ](/pdf/sample_presentation.pdf)
