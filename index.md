@@ -6,7 +6,7 @@ site_favicon: images/favicon.ico
 
 ### My Creative Works 
 
-[Project 1 - Galaxy Cat](/sample_page)
+[Project 1 - Ripped Text Effect](/sample_page)
 <img src="images/ripped_text_graphic.jpg?raw=true"/>
 
 ---
