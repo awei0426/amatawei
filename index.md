@@ -33,7 +33,7 @@ site_favicon: images/favicon.ico
 ---
 ### MY MidTerm Project
 
-- [Midterm Project - E-commerce](https://spaces.w3schools.com/)
+- [Midterm Project - E-commerce](https://test2022cafe.w3spaces.com/))
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
