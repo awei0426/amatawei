@@ -19,7 +19,7 @@ site_favicon: images/favicon.ico
 
 ---
 
-[Project 4 - Surrealism Project](http://example.com/)
+[Project 4 - Pop Art Project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
